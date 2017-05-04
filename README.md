@@ -5,5 +5,5 @@
 ## I have two python program, one using simple formula 'simple_solution.py' and other using TensorFlow 'tf_solution.py'.
 ## See how TensorFlow fails for numbers like 55 and above. Also it is very slow.
 ### Usage: Just run the program followed by the value, 
-#### ex1: simple_solution.py 55       #(the answer will be '10'), 
-#### ex2: tf_solution,py 55           #(the answer will 'n= 11.2281 , loss= 186.298')
+### simple_solution.py  55       #(the answer will be '10'), 
+### tf_solution,py  55           #(the answer will 'n= 11.2281 , loss= 186.298')
